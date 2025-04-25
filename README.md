@@ -27,3 +27,6 @@ Simple productivity reports (e.g., total productive vs. unproductive time)
 Weekly analytics (easily extendable)
 
 This tool is especially useful for students, professionals, and remote workers looking to become more aware of their online habits and manage their time better.
+
+![Image](https://github.com/user-attachments/assets/0b9979bb-4671-49f3-873c-872b496833d2)
+![Image](https://github.com/user-attachments/assets/efd4d112-1043-467b-86ae-ed9920b3ee14)
